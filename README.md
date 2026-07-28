@@ -1,6 +1,6 @@
 <div align="center">
 
-# DEX Trending Bot by DexMoji
+# DexMoji - DexScreener Trending Bot
 
 **One campaign hub for DexScreener, DexTools, DEX terminals and DexScreener reactions**
 
